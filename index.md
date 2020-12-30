@@ -1,3 +1,3 @@
 # Welcome yo
 
-https://mitchellbernstein.github.io/health-and-wellness/
+https://github.com/mitchellbernstein/health-and-wellness
